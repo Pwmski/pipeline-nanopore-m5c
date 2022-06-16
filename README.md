@@ -8,6 +8,7 @@
 6. Methylation calling & wrangling: nanopolish call-methylation, awk sort, filter
 
 Global installation on HPC: guppy-gpu, cat, minimap2, samtools
+
 Local installation on HPC in own conda environment: nanopolish
 
 Pawel Mikulski, PhD
