@@ -13,3 +13,4 @@ samtools view -bo /t1-data/project/Jansenlab/pmikulsk/ont_p13met/406/guppymulti-
 samtools sort /t1-data/project/Jansenlab/pmikulsk/ont_p13met/406/guppymulti-out/bam/406merged1.bam -o /t1-data/project/Jansenlab/pmikulsk/ont_p13met/406/guppymulti-out/bam/406merged1_sort.bam
 
 samtools index /t1-data/project/Jansenlab/pmikulsk/ont_p13met/406/guppymulti-out/bam/406merged1_sort.bam
+
