@@ -17,3 +17,4 @@ guppy_basecaller \
 	-x "cuda:0" \
     -i /t1-data/project/Jansenlab/pmikulsk/ont_p13met/406/fast5/fast5multi1/ \
 	-s /t1-data/project/Jansenlab/pmikulsk/ont_p13met/406/guppymulti-out/
+	
