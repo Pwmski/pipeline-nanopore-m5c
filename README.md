@@ -13,3 +13,4 @@ Local installation on HPC in own conda environment: nanopolish
 
 Pawel Mikulski, PhD
 University of Oxford
+
